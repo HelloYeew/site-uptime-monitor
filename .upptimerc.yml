@@ -7,6 +7,8 @@ sites:
     url: https://rulesets.info/
   - name: beattosetto
     url: https://beatsets.info/
+  - name: helloyeew.dev
+    url: https://helloyeew.dev
 
 assignees: # Users to assign downtime issues (optional)
   - HelloYeew
@@ -15,11 +17,10 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /site-uptime-monitor # where "repo" is your repository name
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: HelloYeew Site Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Welcome to **HelloYeew's website uptime monitor**. An uptime monitor ans status page for my website."
+  introMessage: This site uses **real-time** data from my [GitHub repository](https://github.com/HelloYeew/site-uptime-monitor/). No server required — just GitHub Actions, Issues, and Pages. Powered by [**upptime**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
