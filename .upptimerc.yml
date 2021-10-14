@@ -17,7 +17,7 @@ status-website:
   baseUrl: /site-uptime-monitor # where "repo" is your repository name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: HelloYeew Site Status
-  introTitle: "Welcome to **HelloYeew's website uptime monitor**. An uptime monitor ans status page for my website."
+  introTitle: "Welcome to **HelloYeew's website uptime monitor**, An uptime monitor and status page for my website."
   introMessage: This site uses **real-time** data from my [GitHub repository](https://github.com/HelloYeew/site-uptime-monitor/). No server required — just GitHub Actions, Issues, and Pages. Powered by [**upptime**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
