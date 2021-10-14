@@ -7,8 +7,6 @@ sites:
     url: https://rulesets.info/
   - name: beattosetto
     url: https://beatsets.info/
-  - name: helloyeew.dev
-    url: https://helloyeew.dev
 
 assignees: # Users to assign downtime issues (optional)
   - HelloYeew
