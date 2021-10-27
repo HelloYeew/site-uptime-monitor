@@ -22,17 +22,19 @@
     "url": "https://beatsets.info/",
     "icon": "https://favicons.githubusercontent.com/beatsets.info",
     "slug": "beattosetto",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 827,
-    "timeDay": 939,
-    "timeWeek": 865,
-    "timeMonth": 827,
-    "timeYear": 827,
-    "dailyMinutesDown": {}
+    "time": 824,
+    "timeDay": 854,
+    "timeWeek": 853,
+    "timeMonth": 824,
+    "timeYear": 824,
+    "dailyMinutesDown": {
+      "2021-10-27": 0
+    }
   }
 ]
