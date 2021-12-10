@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 978,
-    "timeWeek": 994,
-    "timeMonth": 981,
-    "timeYear": 985,
+    "time": 986,
+    "timeDay": 1017,
+    "timeWeek": 1006,
+    "timeMonth": 985,
+    "timeYear": 986,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 980,
-    "timeDay": 1063,
-    "timeWeek": 1021,
-    "timeMonth": 1057,
+    "timeDay": 1039,
+    "timeWeek": 1018,
+    "timeMonth": 1055,
     "timeYear": 980,
     "dailyMinutesDown": {
       "2021-10-27": 20
@@ -39,8 +39,8 @@
   },
   {
     "name": "homepage",
-    "url": "https://www.helloyeew.dev/",
-    "icon": "https://favicons.githubusercontent.com/www.helloyeew.dev",
+    "url": "https://helloyeew.dev/",
+    "icon": "https://favicons.githubusercontent.com/helloyeew.dev",
     "slug": "homepage",
     "status": "up",
     "uptime": "100.00%",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 802,
-    "timeDay": 802,
-    "timeWeek": 802,
-    "timeMonth": 802,
-    "timeYear": 802,
+    "time": 733,
+    "timeDay": 733,
+    "timeWeek": 733,
+    "timeMonth": 733,
+    "timeYear": 733,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1038,
-    "timeDay": 1038,
-    "timeWeek": 1038,
-    "timeMonth": 1038,
-    "timeYear": 1038,
+    "time": 1005,
+    "timeDay": 1005,
+    "timeWeek": 1005,
+    "timeMonth": 1005,
+    "timeYear": 1005,
     "dailyMinutesDown": {}
   }
 ]
