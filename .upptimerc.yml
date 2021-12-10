@@ -8,7 +8,7 @@ sites:
   - name: beattosetto
     url: https://beatsets.info/
   - name: homepage
-    url: https://www.helloyeew.dev/
+    url: https://helloyeew.dev/
   - name: blog
     url: https://blog.helloyeew.dev/
 
