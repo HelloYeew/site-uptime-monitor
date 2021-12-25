@@ -5,6 +5,8 @@ repo: site-uptime-monitor # The name of this repository
 sites:
   - name: rūrusetto
     url: https://rulesets.info/
+  - name: rūrusetto docs
+    url: https://docs.rulesets.info/
   - name: beattosetto
     url: https://beatsets.info/
   - name: homepage
