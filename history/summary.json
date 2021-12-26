@@ -4,19 +4,19 @@
     "url": "https://rulesets.info/",
     "icon": "https://favicons.githubusercontent.com/rulesets.info",
     "slug": "rurusetto",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 992,
-    "timeDay": 990,
-    "timeWeek": 1007,
-    "timeMonth": 999,
-    "timeYear": 992,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 993,
+    "timeDay": 1006,
+    "timeWeek": 1011,
+    "timeMonth": 1000,
+    "timeYear": 993,
     "dailyMinutesDown": {
-      "2021-12-26": 0
+      "2021-12-26": 9
     }
   },
   {
