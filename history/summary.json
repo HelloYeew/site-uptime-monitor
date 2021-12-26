@@ -4,18 +4,20 @@
     "url": "https://rulesets.info/",
     "icon": "https://favicons.githubusercontent.com/rulesets.info",
     "slug": "rurusetto",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 992,
-    "timeDay": 974,
-    "timeWeek": 1005,
-    "timeMonth": 998,
+    "timeDay": 990,
+    "timeWeek": 1007,
+    "timeMonth": 999,
     "timeYear": 992,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-26": 0
+    }
   },
   {
     "name": "rūrusetto docs",
