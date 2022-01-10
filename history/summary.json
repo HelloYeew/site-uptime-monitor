@@ -60,18 +60,20 @@
     "url": "https://helloyeew.dev/",
     "icon": "https://favicons.githubusercontent.com/helloyeew.dev",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 1120,
-    "timeWeek": 407,
-    "timeMonth": 326,
-    "timeYear": 326,
-    "dailyMinutesDown": {}
+    "time": 336,
+    "timeDay": 910,
+    "timeWeek": 444,
+    "timeMonth": 336,
+    "timeYear": 336,
+    "dailyMinutesDown": {
+      "2022-01-10": 0
+    }
   },
   {
     "name": "blog",
