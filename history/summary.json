@@ -78,19 +78,19 @@
     "url": "https://blog.helloyeew.dev",
     "icon": "https://favicons.githubusercontent.com/blog.helloyeew.dev",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 232,
-    "timeWeek": 121,
-    "timeMonth": 140,
-    "timeYear": 259,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 351,
+    "timeDay": 2636,
+    "timeWeek": 736,
+    "timeMonth": 284,
+    "timeYear": 351,
     "dailyMinutesDown": {
-      "2022-01-27": 0
+      "2022-01-27": 6
     }
   }
 ]
