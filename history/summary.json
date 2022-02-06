@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 994,
-    "timeDay": 1091,
-    "timeWeek": 1044,
-    "timeMonth": 1014,
+    "timeDay": 0,
+    "timeWeek": 1033,
+    "timeMonth": 1012,
     "timeYear": 994,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 103,
-    "timeWeek": 141,
-    "timeMonth": 230,
+    "timeDay": 0,
+    "timeWeek": 140,
+    "timeMonth": 229,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1011,
-    "timeDay": 1039,
-    "timeWeek": 1037,
-    "timeMonth": 1040,
+    "timeDay": 0,
+    "timeWeek": 1048,
+    "timeMonth": 1041,
     "timeYear": 1011,
     "dailyMinutesDown": {
       "2021-10-27": 20
@@ -61,19 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/helloyeew.dev",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 265,
-    "timeDay": 102,
-    "timeWeek": 110,
-    "timeMonth": 228,
+    "timeDay": 161,
+    "timeWeek": 119,
+    "timeMonth": 227,
     "timeYear": 265,
-    "dailyMinutesDown": {
-      "2022-02-05": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blog",
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 193,
-    "timeWeek": 167,
-    "timeMonth": 285,
+    "timeDay": 0,
+    "timeWeek": 184,
+    "timeMonth": 289,
     "timeYear": 320,
     "dailyMinutesDown": {}
   }
