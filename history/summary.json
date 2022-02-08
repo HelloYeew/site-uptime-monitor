@@ -78,7 +78,7 @@
     "url": "https://blog.helloyeew.dev",
     "icon": "https://favicons.githubusercontent.com/blog.helloyeew.dev",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 89,
     "timeMonth": 282,
     "timeYear": 309,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   }
 ]
