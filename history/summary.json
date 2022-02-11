@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 994,
-    "timeDay": 1053,
-    "timeWeek": 1000,
-    "timeMonth": 1011,
+    "timeDay": 910,
+    "timeWeek": 996,
+    "timeMonth": 1004,
     "timeYear": 994,
     "dailyMinutesDown": {}
   },
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/docs.rulesets.info",
     "slug": "rurusetto-docs",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 231,
-    "timeDay": 180,
-    "timeWeek": 201,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 229,
+    "timeDay": 168,
+    "timeWeek": 195,
     "timeMonth": 234,
-    "timeYear": 231,
-    "dailyMinutesDown": {
-      "2022-02-10": 9
-    }
+    "timeYear": 229,
+    "dailyMinutesDown": {}
   },
   {
     "name": "beattosetto",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1012,
-    "timeDay": 1077,
-    "timeWeek": 1027,
-    "timeMonth": 1045,
+    "timeDay": 997,
+    "timeWeek": 1031,
+    "timeMonth": 1043,
     "timeYear": 1012,
     "dailyMinutesDown": {
       "2021-10-27": 20
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 45,
-    "timeWeek": 780,
-    "timeMonth": 321,
-    "timeYear": 328,
+    "time": 326,
+    "timeDay": 172,
+    "timeWeek": 790,
+    "timeMonth": 319,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 90,
-    "timeWeek": 87,
-    "timeMonth": 259,
-    "timeYear": 288,
+    "time": 285,
+    "timeDay": 36,
+    "timeWeek": 82,
+    "timeMonth": 258,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   }
 ]
