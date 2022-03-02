@@ -22,19 +22,19 @@
     "url": "https://docs.rulesets.info/",
     "icon": "https://favicons.githubusercontent.com/docs.rulesets.info",
     "slug": "rurusetto-docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 110,
-    "timeWeek": 189,
-    "timeMonth": 221,
-    "timeYear": 230,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 233,
+    "timeDay": 268,
+    "timeWeek": 215,
+    "timeMonth": 227,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 13
     }
   },
   {
