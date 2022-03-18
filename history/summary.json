@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 992,
-    "timeDay": 850,
-    "timeWeek": 999,
-    "timeMonth": 984,
-    "timeYear": 992,
+    "time": 991,
+    "timeDay": 859,
+    "timeWeek": 972,
+    "timeMonth": 977,
+    "timeYear": 991,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 202,
-    "timeWeek": 148,
-    "timeMonth": 254,
+    "timeDay": 229,
+    "timeWeek": 149,
+    "timeMonth": 258,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1011,
-    "timeDay": 890,
-    "timeWeek": 1055,
-    "timeMonth": 987,
-    "timeYear": 1011,
+    "time": 1010,
+    "timeDay": 894,
+    "timeWeek": 1020,
+    "timeMonth": 1001,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2021-10-27": 20
     }
@@ -61,17 +61,20 @@
     "icon": "https://favicons.githubusercontent.com/helloyeew.dev",
     "slug": "homepage",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 160,
-    "timeWeek": 130,
+    "uptime": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 334,
+    "timeDay": 417,
+    "timeWeek": 182,
     "timeMonth": 387,
-    "timeYear": 333,
-    "dailyMinutesDown": {}
+    "timeYear": 334,
+    "dailyMinutesDown": {
+      "2022-03-18": 16,
+      "2022-03-17": 4
+    }
   },
   {
     "name": "blog",
@@ -84,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 249,
-    "timeWeek": 61,
-    "timeMonth": 90,
-    "timeYear": 216,
+    "time": 215,
+    "timeDay": 122,
+    "timeWeek": 73,
+    "timeMonth": 93,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   }
 ]
