@@ -11,6 +11,8 @@ sites:
     url: https://beatsets.info/
   - name: homepage
     url: https://helloyeew.dev/
+  - name: story
+    url: https://story.helloyeew.dev/
 
 assignees: # Users to assign downtime issues (optional)
   - HelloYeew
