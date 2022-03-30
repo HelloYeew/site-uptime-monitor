@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 1082,
-    "timeWeek": 1022,
-    "timeMonth": 985,
-    "timeYear": 991,
+    "time": 989,
+    "timeDay": 521,
+    "timeWeek": 967,
+    "timeMonth": 971,
+    "timeYear": 989,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 186,
-    "timeWeek": 297,
-    "timeMonth": 266,
+    "timeDay": 227,
+    "timeWeek": 295,
+    "timeMonth": 259,
     "timeYear": 242,
     "dailyMinutesDown": {}
   },
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1012,
-    "timeDay": 1120,
-    "timeWeek": 1061,
+    "timeDay": 1019,
+    "timeWeek": 1056,
     "timeMonth": 1029,
     "timeYear": 1012,
     "dailyMinutesDown": {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 24,
-    "timeWeek": 169,
-    "timeMonth": 192,
-    "timeYear": 317,
+    "time": 316,
+    "timeDay": 135,
+    "timeWeek": 160,
+    "timeMonth": 190,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +79,16 @@
     "icon": "https://favicons.githubusercontent.com/story.helloyeew.dev",
     "slug": "story",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 1684,
-    "timeDay": 3039,
-    "timeWeek": 1684,
-    "timeMonth": 1684,
-    "timeYear": 1684,
-    "dailyMinutesDown": {
-      "2022-03-29": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1576,
+    "timeDay": 2960,
+    "timeWeek": 1576,
+    "timeMonth": 1576,
+    "timeYear": 1576,
+    "dailyMinutesDown": {}
   }
 ]
