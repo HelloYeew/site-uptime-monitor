@@ -22,18 +22,20 @@
     "url": "https://docs.rulesets.info/",
     "icon": "https://favicons.githubusercontent.com/docs.rulesets.info",
     "slug": "rurusetto-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 298,
-    "timeWeek": 208,
-    "timeMonth": 264,
-    "timeYear": 241,
-    "dailyMinutesDown": {}
+    "time": 242,
+    "timeDay": 339,
+    "timeWeek": 230,
+    "timeMonth": 267,
+    "timeYear": 242,
+    "dailyMinutesDown": {
+      "2022-04-04": 0
+    }
   },
   {
     "name": "beattosetto",
@@ -67,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 140,
+    "timeDay": 255,
     "timeWeek": 99,
     "timeMonth": 179,
     "timeYear": 306,
