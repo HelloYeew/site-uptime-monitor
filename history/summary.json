@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 973,
-    "timeDay": 518,
-    "timeWeek": 506,
-    "timeMonth": 884,
-    "timeYear": 973,
+    "time": 970,
+    "timeDay": 357,
+    "timeWeek": 403,
+    "timeMonth": 868,
+    "timeYear": 970,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/docs.rulesets.info",
     "slug": "rurusetto-docs",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 242,
-    "timeDay": 308,
-    "timeWeek": 232,
-    "timeMonth": 267,
-    "timeYear": 242,
-    "dailyMinutesDown": {
-      "2022-04-04": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 243,
+    "timeDay": 314,
+    "timeWeek": 246,
+    "timeMonth": 246,
+    "timeYear": 243,
+    "dailyMinutesDown": {}
   },
   {
     "name": "beattosetto",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1015,
-    "timeDay": 1456,
-    "timeWeek": 1126,
-    "timeMonth": 1045,
+    "timeDay": 971,
+    "timeWeek": 1104,
+    "timeMonth": 1046,
     "timeYear": 1015,
     "dailyMinutesDown": {
       "2021-10-27": 20
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 255,
-    "timeWeek": 99,
-    "timeMonth": 179,
+    "timeDay": 202,
+    "timeWeek": 121,
+    "timeMonth": 181,
     "timeYear": 306,
     "dailyMinutesDown": {}
   },
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1349,
-    "timeDay": 1007,
-    "timeWeek": 1520,
-    "timeMonth": 1349,
-    "timeYear": 1349,
+    "time": 1329,
+    "timeDay": 1090,
+    "timeWeek": 1521,
+    "timeMonth": 1329,
+    "timeYear": 1329,
     "dailyMinutesDown": {}
   }
 ]
