@@ -80,19 +80,19 @@
     "url": "https://story.helloyeew.dev/",
     "icon": "https://favicons.githubusercontent.com/story.helloyeew.dev",
     "slug": "story",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1113,
-    "timeDay": 1002,
-    "timeWeek": 1028,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1114,
+    "timeDay": 1068,
+    "timeWeek": 1029,
     "timeMonth": 1127,
-    "timeYear": 1113,
+    "timeYear": 1114,
     "dailyMinutesDown": {
-      "2022-04-29": 0
+      "2022-04-29": 17
     }
   }
 ]
