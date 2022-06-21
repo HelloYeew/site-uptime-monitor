@@ -4,10 +4,10 @@
     "url": "https://rulesets.info/",
     "icon": "https://favicons.githubusercontent.com/rulesets.info",
     "slug": "rurusetto",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 827,
@@ -15,16 +15,18 @@
     "timeWeek": 457,
     "timeMonth": 439,
     "timeYear": 827,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "rūrusetto docs",
     "url": "https://docs.rulesets.info/",
     "icon": "https://favicons.githubusercontent.com/docs.rulesets.info",
     "slug": "rurusetto-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +36,7 @@
     "timeMonth": 275,
     "timeYear": 278,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-04-14": 17
     }
   },
