@@ -72,19 +72,19 @@
     "url": "https://helloyeew.dev/",
     "icon": "https://favicons.githubusercontent.com/helloyeew.dev",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 357,
-    "timeWeek": 286,
-    "timeMonth": 302,
+    "timeDay": 274,
+    "timeWeek": 274,
+    "timeMonth": 299,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 13
     }
   },
   {
