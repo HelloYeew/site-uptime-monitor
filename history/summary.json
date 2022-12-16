@@ -144,19 +144,19 @@
     "url": "https://server.rulesets.info/",
     "icon": "https://icons.duckduckgo.com/ip3/server.rulesets.info.ico",
     "slug": "freedom-dive-server",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 383,
-    "timeDay": 383,
-    "timeWeek": 383,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "status": "up",
+    "uptime": "92.50%",
+    "uptimeDay": "92.50%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "92.50%",
+    "time": 658,
+    "timeDay": 658,
+    "timeWeek": 658,
+    "timeMonth": 658,
+    "timeYear": 658,
     "dailyMinutesDown": {
-      "2022-12-16": 0
+      "2022-12-16": 44
     }
   }
 ]
