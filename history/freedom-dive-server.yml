@@ -1,7 +1,7 @@
 url: https://server.rulesets.info/
-status: down
-code: 500
-responseTime: 146
-lastUpdated: 2022-12-19T11:53:20.013Z
+status: up
+code: 200
+responseTime: 373
+lastUpdated: 2022-12-19T12:07:56.272Z
 startTime: Thu Dec 15 2022 17:15:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
