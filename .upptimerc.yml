@@ -17,6 +17,8 @@ sites:
     url: https://game.rulesets.info/
   - name: freedom dive server
     url: https://server.rulesets.info/
+  - name: Asuna
+    url: https://asuna.helloyeew.dev/
 
 assignees: # Users to assign downtime issues (optional)
   - HelloYeew
