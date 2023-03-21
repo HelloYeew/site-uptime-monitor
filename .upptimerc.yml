@@ -13,10 +13,6 @@ sites:
     url: https://helloyeew.dev/
   - name: story
     url: https://story.helloyeew.dev/
-  - name: freedom dive web
-    url: https://game.rulesets.info/
-  - name: freedom dive server
-    url: https://server.rulesets.info/
   - name: Asuna
     url: https://asuna.helloyeew.dev/
 
