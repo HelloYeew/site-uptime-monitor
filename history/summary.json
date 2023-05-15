@@ -53,9 +53,9 @@
     "url": "https://beatsets.info/",
     "icon": "https://icons.duckduckgo.com/ip3/beatsets.info.ico",
     "slug": "beattosetto",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -65,6 +65,7 @@
     "timeMonth": 1016,
     "timeYear": 963,
     "dailyMinutesDown": {
+      "2023-05-15": 0,
       "2023-01-25": 20
     }
   },
@@ -97,12 +98,12 @@
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.42%",
-    "uptimeMonth": "97.73%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "99.27%",
     "time": 1305,
     "timeDay": 928,
     "timeWeek": 2180,
-    "timeMonth": 2080,
+    "timeMonth": 2110,
     "timeYear": 1334,
     "dailyMinutesDown": {
       "2023-05-13": 56,
