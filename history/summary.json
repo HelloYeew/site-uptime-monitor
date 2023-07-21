@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
-    "timeDay": 511,
-    "timeWeek": 560,
-    "timeMonth": 598,
+    "timeDay": 398,
+    "timeWeek": 568,
+    "timeMonth": 593,
     "timeYear": 518,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 388,
-    "timeDay": 193,
-    "timeWeek": 313,
-    "timeMonth": 266,
+    "timeDay": 360,
+    "timeWeek": 348,
+    "timeMonth": 261,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2022-09-14": 49,
@@ -49,10 +49,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 983,
-    "timeDay": 1157,
-    "timeWeek": 1043,
-    "timeMonth": 1058,
+    "time": 984,
+    "timeDay": 1014,
+    "timeWeek": 1064,
+    "timeMonth": 1057,
     "timeYear": 981,
     "dailyMinutesDown": {
       "2023-01-25": 20
@@ -70,9 +70,9 @@
     "uptimeMonth": "96.44%",
     "uptimeYear": "99.70%",
     "time": 331,
-    "timeDay": 47,
-    "timeWeek": 126,
-    "timeMonth": 224,
+    "timeDay": 167,
+    "timeWeek": 137,
+    "timeMonth": 217,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2023-07-12": 1113,
@@ -86,16 +86,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/story.helloyeew.dev.ico",
     "slug": "story",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.06%",
-    "time": 1322,
-    "timeDay": 474,
-    "timeWeek": 437,
-    "timeMonth": 1071,
-    "timeYear": 1386,
+    "time": 1320,
+    "timeDay": 429,
+    "timeWeek": 442,
+    "timeMonth": 1054,
+    "timeYear": 1384,
     "dailyMinutesDown": {
       "2023-07-11": 44,
       "2023-06-21": 302,
@@ -130,8 +130,7 @@
       "2022-07-26": 211,
       "2022-07-25": 324,
       "2022-07-23": 17,
-      "2022-07-22": 72,
-      "2022-07-21": 59
+      "2022-07-22": 72
     }
   },
   {
@@ -145,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 702,
-    "timeDay": 771,
-    "timeWeek": 591,
-    "timeMonth": 655,
-    "timeYear": 702,
+    "time": 699,
+    "timeDay": 328,
+    "timeWeek": 549,
+    "timeMonth": 644,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2023-07-11": 35
     }
