@@ -131,18 +131,19 @@
     "url": "https://asuna.helloyeew.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/asuna.helloyeew.dev.ico",
     "slug": "asuna",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 617,
-    "timeDay": 973,
-    "timeWeek": 412,
-    "timeMonth": 412,
-    "timeYear": 617,
+    "time": 614,
+    "timeDay": 528,
+    "timeWeek": 371,
+    "timeMonth": 401,
+    "timeYear": 614,
     "dailyMinutesDown": {
+      "2023-09-17": 0,
       "2023-07-11": 35
     }
   }
