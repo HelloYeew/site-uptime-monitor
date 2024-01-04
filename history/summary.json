@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 584,
-    "timeDay": 965,
-    "timeWeek": 865,
-    "timeMonth": 782,
-    "timeYear": 623,
+    "time": 586,
+    "timeDay": 1344,
+    "timeWeek": 907,
+    "timeMonth": 786,
+    "timeYear": 625,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "rurusetto-docs",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 185,
-    "timeWeek": 253,
-    "timeMonth": 407,
+    "timeDay": 195,
+    "timeWeek": 220,
+    "timeMonth": 405,
     "timeYear": 312,
-    "dailyMinutesDown": {
-      "2024-01-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "beattosetto",
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1008,
-    "timeDay": 846,
-    "timeWeek": 950,
-    "timeMonth": 1013,
+    "time": 1009,
+    "timeDay": 1094,
+    "timeWeek": 989,
+    "timeMonth": 1016,
     "timeYear": 1024,
     "dailyMinutesDown": {
       "2023-01-25": 20
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 260,
-    "timeDay": 103,
-    "timeWeek": 108,
-    "timeMonth": 95,
-    "timeYear": 219,
+    "time": 259,
+    "timeDay": 102,
+    "timeWeek": 101,
+    "timeMonth": 96,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2023-07-12": 1113,
       "2023-07-11": 446
@@ -89,10 +87,10 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.11%",
-    "time": 1603,
-    "timeDay": 1000,
-    "timeWeek": 806,
-    "timeMonth": 645,
+    "time": 1602,
+    "timeDay": 1108,
+    "timeWeek": 893,
+    "timeMonth": 665,
     "timeYear": 1801,
     "dailyMinutesDown": {
       "2023-12-31": 16,
@@ -146,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 604,
-    "timeDay": 386,
-    "timeWeek": 457,
-    "timeMonth": 525,
-    "timeYear": 604,
+    "time": 603,
+    "timeDay": 333,
+    "timeWeek": 389,
+    "timeMonth": 506,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2023-07-11": 35
     }
