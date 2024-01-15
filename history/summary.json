@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 592,
-    "timeDay": 1268,
+    "timeDay": 573,
     "timeWeek": 692,
-    "timeMonth": 767,
-    "timeYear": 635,
+    "timeMonth": 770,
+    "timeYear": 636,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
-    "timeDay": 246,
-    "timeWeek": 214,
+    "timeDay": 224,
+    "timeWeek": 213,
     "timeMonth": 239,
-    "timeYear": 312,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1011,
-    "timeDay": 1181,
-    "timeWeek": 1066,
-    "timeMonth": 1019,
-    "timeYear": 1027,
+    "timeDay": 1195,
+    "timeWeek": 1074,
+    "timeMonth": 1029,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2023-01-25": 20
     }
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 252,
-    "timeDay": 187,
-    "timeWeek": 113,
-    "timeMonth": 100,
-    "timeYear": 213,
+    "timeDay": 87,
+    "timeWeek": 106,
+    "timeMonth": 98,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2023-07-12": 1113,
       "2023-07-11": 446
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.11%",
-    "time": 1565,
-    "timeDay": 1435,
-    "timeWeek": 1064,
-    "timeMonth": 797,
-    "timeYear": 1803,
+    "time": 1564,
+    "timeDay": 1374,
+    "timeWeek": 1113,
+    "timeMonth": 824,
+    "timeYear": 1806,
     "dailyMinutesDown": {
       "2023-12-31": 16,
       "2023-12-16": 24,
@@ -144,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 600,
-    "timeDay": 336,
-    "timeWeek": 394,
-    "timeMonth": 506,
-    "timeYear": 600,
+    "time": 599,
+    "timeDay": 335,
+    "timeWeek": 396,
+    "timeMonth": 507,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2023-07-11": 35
     }
