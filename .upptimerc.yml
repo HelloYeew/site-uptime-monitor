@@ -15,6 +15,10 @@ sites:
     url: https://story.helloyeew.dev/
   - name: Asuna
     url: https://asuna.helloyeew.dev/
+  - name: Atena
+    url: https://atena.helloyeew.dev/
+  - name: resume
+    url: https://resume.helloyeew.dev/
 
 assignees: # Users to assign downtime issues (optional)
   - HelloYeew
