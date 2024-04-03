@@ -167,19 +167,19 @@
     "url": "https://resume.helloyeew.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/resume.helloyeew.dev.ico",
     "slug": "resume",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 706,
-    "timeWeek": 523,
-    "timeMonth": 570,
-    "timeYear": 609,
+    "time": 612,
+    "timeDay": 743,
+    "timeWeek": 555,
+    "timeMonth": 576,
+    "timeYear": 612,
     "dailyMinutesDown": {
-      "2024-04-03": 0
+      "2024-04-03": 5
     }
   }
 ]
