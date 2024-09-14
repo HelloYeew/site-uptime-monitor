@@ -22,18 +22,20 @@
     "url": "https://docs.rulesets.info/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.rulesets.info.ico",
     "slug": "rurusetto-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 287,
-    "timeWeek": 323,
-    "timeMonth": 370,
-    "timeYear": 300,
-    "dailyMinutesDown": {}
+    "time": 307,
+    "timeDay": 1777,
+    "timeWeek": 691,
+    "timeMonth": 460,
+    "timeYear": 308,
+    "dailyMinutesDown": {
+      "2024-09-14": 0
+    }
   },
   {
     "name": "beattosetto",
