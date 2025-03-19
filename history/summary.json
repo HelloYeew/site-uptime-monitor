@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 733,
-    "timeDay": 600,
-    "timeWeek": 588,
-    "timeMonth": 574,
+    "timeDay": 619,
+    "timeWeek": 592,
+    "timeMonth": 578,
     "timeYear": 729,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 335,
-    "timeDay": 265,
+    "timeDay": 275,
     "timeWeek": 299,
-    "timeMonth": 311,
+    "timeMonth": 310,
     "timeYear": 350,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1071,
-    "timeDay": 1170,
-    "timeWeek": 1096,
-    "timeMonth": 1073,
-    "timeYear": 1075,
+    "time": 1072,
+    "timeDay": 1173,
+    "timeWeek": 1099,
+    "timeMonth": 1077,
+    "timeYear": 1076,
     "dailyMinutesDown": {}
   },
   {
@@ -58,19 +58,19 @@
     "url": "https://helloyeew.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/helloyeew.dev.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 109,
+    "timeDay": 175,
     "timeWeek": 134,
-    "timeMonth": 135,
+    "timeMonth": 137,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-03-19": 0
+      "2025-03-19": 5
     }
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1159,
-    "timeDay": 1870,
+    "time": 1160,
+    "timeDay": 1756,
     "timeWeek": 1746,
-    "timeMonth": 1715,
-    "timeYear": 1211,
+    "timeMonth": 1707,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2024-11-04": 351
     }
@@ -104,10 +104,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 647,
-    "timeDay": 714,
-    "timeWeek": 603,
-    "timeMonth": 574,
+    "time": 648,
+    "timeDay": 822,
+    "timeWeek": 695,
+    "timeMonth": 597,
     "timeYear": 654,
     "dailyMinutesDown": {}
   }
