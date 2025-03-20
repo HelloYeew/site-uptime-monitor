@@ -60,18 +60,16 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
     "timeDay": 175,
     "timeWeek": 134,
     "timeMonth": 137,
     "timeYear": 145,
-    "dailyMinutesDown": {
-      "2025-03-19": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Atena",
