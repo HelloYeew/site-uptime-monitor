@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 693,
-    "timeDay": 1946,
-    "timeWeek": 981,
-    "timeMonth": 652,
-    "timeYear": 657,
+    "time": 692,
+    "timeDay": 947,
+    "timeWeek": 1024,
+    "timeMonth": 671,
+    "timeYear": 658,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 355,
-    "timeDay": 999,
-    "timeWeek": 595,
-    "timeMonth": 388,
-    "timeYear": 364,
+    "timeDay": 649,
+    "timeWeek": 648,
+    "timeMonth": 400,
+    "timeYear": 362,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1076,
-    "timeDay": 1094,
-    "timeWeek": 1122,
-    "timeMonth": 1055,
-    "timeYear": 1084,
+    "timeDay": 903,
+    "timeWeek": 1078,
+    "timeMonth": 1056,
+    "timeYear": 1083,
     "dailyMinutesDown": {}
   },
   {
@@ -60,18 +60,16 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 170,
-    "timeWeek": 136,
+    "timeDay": 176,
+    "timeWeek": 140,
     "timeMonth": 138,
     "timeYear": 148,
-    "dailyMinutesDown": {
-      "2025-08-25": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "resume",
@@ -80,17 +78,15 @@
     "slug": "resume",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 594,
-    "timeWeek": 544,
+    "time": 665,
+    "timeDay": 810,
+    "timeWeek": 556,
     "timeMonth": 602,
-    "timeYear": 662,
-    "dailyMinutesDown": {
-      "2025-08-25": 8
-    }
+    "timeYear": 661,
+    "dailyMinutesDown": {}
   }
 ]
