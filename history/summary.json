@@ -58,19 +58,19 @@
     "url": "https://helloyeew.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/helloyeew.dev.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 143,
-    "timeDay": 189,
-    "timeWeek": 161,
-    "timeMonth": 149,
+    "timeDay": 178,
+    "timeWeek": 159,
+    "timeMonth": 148,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-08-30": 0,
+      "2025-08-30": 16,
       "2025-08-27": 15
     }
   },
@@ -79,19 +79,19 @@
     "url": "https://resume.helloyeew.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/resume.helloyeew.dev.ico",
     "slug": "resume",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 666,
-    "timeDay": 585,
-    "timeWeek": 852,
-    "timeMonth": 705,
-    "timeYear": 671,
+    "timeDay": 608,
+    "timeWeek": 849,
+    "timeMonth": 706,
+    "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-08-30": 0
+      "2025-08-30": 15
     }
   }
 ]
