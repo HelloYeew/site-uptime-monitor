@@ -13,7 +13,7 @@
     "time": 689,
     "timeDay": 496,
     "timeWeek": 653,
-    "timeMonth": 632,
+    "timeMonth": 633,
     "timeYear": 642,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 383,
     "timeDay": 250,
     "timeWeek": 339,
-    "timeMonth": 555,
+    "timeMonth": 561,
     "timeYear": 388,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1086,
     "timeDay": 823,
     "timeWeek": 1068,
-    "timeMonth": 1059,
+    "timeMonth": 1061,
     "timeYear": 1091,
     "dailyMinutesDown": {}
   },
@@ -60,9 +60,9 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 147,
     "timeDay": 274,
@@ -70,7 +70,6 @@
     "timeMonth": 157,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-09-30": 6,
       "2025-08-30": 16,
       "2025-08-27": 15
     }
@@ -82,17 +81,16 @@
     "slug": "resume",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 670,
     "timeDay": 508,
     "timeWeek": 646,
-    "timeMonth": 655,
+    "timeMonth": 650,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2025-09-30": 6,
       "2025-08-30": 15
     }
   }
