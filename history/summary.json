@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 695,
-    "timeDay": 577,
-    "timeWeek": 803,
-    "timeMonth": 703,
-    "timeYear": 649,
+    "timeDay": 605,
+    "timeWeek": 798,
+    "timeMonth": 704,
+    "timeYear": 648,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
-    "timeDay": 397,
-    "timeWeek": 368,
-    "timeMonth": 356,
-    "timeYear": 387,
+    "timeDay": 242,
+    "timeWeek": 365,
+    "timeMonth": 338,
+    "timeYear": 388,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1087,
-    "timeDay": 1090,
-    "timeWeek": 1083,
-    "timeMonth": 1066,
-    "timeYear": 1089,
+    "timeDay": 1207,
+    "timeWeek": 1086,
+    "timeMonth": 1076,
+    "timeYear": 1090,
     "dailyMinutesDown": {}
   },
   {
@@ -60,17 +60,16 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 149,
-    "timeDay": 223,
-    "timeWeek": 194,
-    "timeMonth": 168,
+    "timeDay": 168,
+    "timeWeek": 198,
+    "timeMonth": 165,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-10-11": 7,
       "2025-08-30": 16,
       "2025-08-27": 15
     }
@@ -82,17 +81,16 @@
     "slug": "resume",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 881,
-    "timeWeek": 707,
-    "timeMonth": 681,
+    "time": 671,
+    "timeDay": 515,
+    "timeWeek": 663,
+    "timeMonth": 665,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2025-10-11": 7,
       "2025-08-30": 15
     }
   }
