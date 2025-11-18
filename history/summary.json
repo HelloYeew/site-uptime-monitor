@@ -4,19 +4,19 @@
     "url": "https://rulesets.info/",
     "icon": "https://icons.duckduckgo.com/ip3/rulesets.info.ico",
     "slug": "rurusetto",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 359,
-    "timeWeek": 559,
-    "timeMonth": 568,
+    "time": 680,
+    "timeDay": 423,
+    "timeWeek": 570,
+    "timeMonth": 571,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 24
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://docs.rulesets.info/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.rulesets.info.ico",
     "slug": "rurusetto-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 426,
-    "timeDay": 204,
-    "timeWeek": 314,
-    "timeMonth": 918,
+    "timeDay": 229,
+    "timeWeek": 310,
+    "timeMonth": 901,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 24
     }
   },
   {
