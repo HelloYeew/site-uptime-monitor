@@ -4,19 +4,19 @@
     "url": "https://rulesets.info/",
     "icon": "https://icons.duckduckgo.com/ip3/rulesets.info.ico",
     "slug": "rurusetto",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 683,
-    "timeDay": 323,
-    "timeWeek": 601,
-    "timeMonth": 579,
+    "time": 682,
+    "timeDay": 415,
+    "timeWeek": 600,
+    "timeMonth": 580,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 12
     }
   },
   {
