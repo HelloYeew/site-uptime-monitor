@@ -6,11 +6,11 @@
     "slug": "rurusetto",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.35%",
+    "uptimeDay": "98.34%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 680,
+    "time": 679,
     "timeDay": 423,
     "timeWeek": 570,
     "timeMonth": 571,
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.rulesets.info.ico",
     "slug": "rurusetto-docs",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 426,
     "timeDay": 227,
     "timeWeek": 301,
     "timeMonth": 883,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2025-11-18": 24
+      "2025-11-18": 42
     }
   },
   {
