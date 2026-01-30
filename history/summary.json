@@ -6,17 +6,16 @@
     "slug": "rurusetto",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 653,
     "timeDay": 2061,
     "timeWeek": 1260,
     "timeMonth": 843,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2026-01-29": 12,
       "2026-01-28": 16,
       "2025-11-18": 107
     }
